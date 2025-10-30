@@ -31,7 +31,7 @@ It provides an interactive dashboard to explore product prices, ratings, and cat
 
 Here’s a quick look at the dashboard:
 
-![Pokeshop Dashboard](Screenshot_30-10-2025_103317_localhost.jpg)
+![Pokeshop Dashboard](screenshot_30-10-2025_103236_loca;host.jpeg)
 
 ---
 
