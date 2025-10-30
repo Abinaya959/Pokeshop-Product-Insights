@@ -27,14 +27,6 @@ It provides an interactive dashboard to explore product prices, ratings, and cat
 
 ---
 
-## 📸 Project Preview
-
-Here’s a quick look at the dashboard:
-
-![Pokeshop Dashboard](screenshot_30-10-2025_103236_loca;host.jpeg)
-
----
-
 ## 🧑‍💻 Author
 
 **Abinaya**  
